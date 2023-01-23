@@ -1,8 +1,12 @@
-clone git repository to your local system
-Then open terminal in the project folder
-Run 'npm install' to get the dependencies
-Then run 'npm install react-icons --save' to use the icons
-Then run 'npm start' to start the server and we can check the given url where the app runs in developent mode
+1.clone git repository to your local system
+
+2.Then open terminal in the project folder
+
+3.Run 'npm install' to get the dependencies
+
+4.Then run 'npm install react-icons --save' to use the icons
+
+5.Then run 'npm start' to start the server and we can check the given url where the app runs in developent mode
 
 
 
