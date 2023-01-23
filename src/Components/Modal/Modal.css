@@ -1,0 +1,129 @@
+.modal{
+    height: 150px;
+    width: 220px;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    color: black;
+    font-size: 12px;
+    display: none;
+}
+.token-cards-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+}
+.token-card{
+    border: 1px solid #80808035;
+    height: 120px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+.token-card:hover{
+    cursor: pointer;
+}
+.token-card>*{
+    pointer-events: none;
+}
+.token-icon{
+    height: 24px;
+    width: 24px;
+    background-color: #80808035;
+    padding: 8px;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+}
+.token-card>:nth-child(3){
+    color: #808080ac;
+}
+
+.chain-select-items-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-top: 12px;
+}
+.chain-select-item{
+    border: 1px solid #80808035;
+    height: 30px;
+    width: 92%;
+    display: flex;
+    border-radius: 8px;
+    align-items: center;
+    padding: 4px 8px;
+    margin-bottom: 8px;
+}
+.chain-select-item-active{
+    border: 2px solid #808080;
+}
+.chain-dot {
+    background-color: #80808035;
+    height: 8px;
+    width: 8px;
+    border-radius: 100%;
+    margin-right: 4px;
+}
+.chain-dot-active{
+    background-color: rgb(215, 36, 116);
+}
+.select-button{
+    background-color: #80808035;
+    border: 0px;
+    font-size: 12px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    margin-left: auto;
+}
+.select-button-active{
+    background-color: rgb(215, 36, 116);
+    color: white;
+}
+.select-button:hover{
+    cursor: pointer;
+}
+
+.amount-count-items-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-top: 16px;
+}
+
+.amount-count-item{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.counter-icon{
+    font-size: 8px;
+    background-color: #80808035;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 0px 4px;
+}
+.counter-icon:hover{
+    cursor: pointer;
+}
+.amount-text{
+    font-size: 16px;
+    font-weight: 500;
+    padding: 0px;
+    width: 20px;
+    text-align: center;
+}
+.hr-line{
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+.token-card-active{
+    border: 2px solid #808080;
+}

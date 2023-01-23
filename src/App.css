@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "book";   /*Can be any text*/
+  src: local("CircularStd-Book"),
+  url("./fonts/CircularStd-Book.otf");
+}
