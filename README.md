@@ -8,8 +8,19 @@
 
 5.Then run 'npm start' to start the server and we can check the given url where the app runs in developent mode
 
+![Screenshot (502)](https://user-images.githubusercontent.com/30923105/213967732-48d6c41e-154e-4478-9109-bb632d2f7d44.png)
 
+![Screenshot (504)](https://user-images.githubusercontent.com/30923105/213967745-51ea1753-ea3d-4f6c-b194-ee5ddc9e1785.png)
 
+![Screenshot (505)](https://user-images.githubusercontent.com/30923105/213967758-351cbb71-2c09-4c68-bdfb-534e48147539.png)
+
+![Screenshot (506)](https://user-images.githubusercontent.com/30923105/213967766-cfd78985-d15a-454e-a3e8-086af7b36095.png)
+
+![Screenshot (507)](https://user-images.githubusercontent.com/30923105/213967779-1468ab76-9129-48e8-b999-1b88a3bf0ef1.png)
+
+![Screenshot (508)](https://user-images.githubusercontent.com/30923105/213967787-1c50a9db-8e27-4dc6-ac64-fb0cd66ec341.png)
+
+![Screenshot (509)](https://user-images.githubusercontent.com/30923105/213967796-dc580c53-0694-4484-9a46-373ab7192c7b.png)
 
 <<<<<<< HEAD
 # Getting Started with Create React App
