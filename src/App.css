@@ -3,3 +3,21 @@
   src: local("CircularStd-Book"),
   url("./fonts/CircularStd-Book.otf");
 }
+.details-wrapper{
+  display: flex;
+  justify-content: space-around;
+}
+.batters-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+.batters{
+  display: flex;
+}
+.topping-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+.topping{
+  display: flex;
+}

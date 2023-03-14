@@ -6,6 +6,7 @@ import "./fonts/CircularStd-Book.otf"
 function App() {
   return (
     <Search/>
+    
   );
 }
 
